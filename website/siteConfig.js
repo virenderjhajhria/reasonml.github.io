@@ -85,6 +85,11 @@ const users = [
     infoLink: "https://appier.com",
   },
   {
+    caption: "Shree Balaji Packers",
+    image: "images/logo.png",
+    infoLink: "https://www.shreebalajipackersandmovers.in/",
+  },
+  {
     caption: "InVision",
     image: "img/logos/invision.svg",
     infoLink: "https://www.invision.de",
